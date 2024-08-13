@@ -8,3 +8,6 @@
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2019/12/07/14/57/rubber-4679464_1280.png">
  <img alt="Rubber Duck" src="https://cdn.pixabay.com/photo/2019/12/07/14/57/rubber-4679464_1280.png">
 </picture>
+
+---
+If you're stuck, ask the duck!
